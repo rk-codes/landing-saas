@@ -1,0 +1,22 @@
+{
+  "name": "landing-saas",
+  "version": "1.0.0",
+  "description": "Landing page with saas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rk-codes/landing-saas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rk-codes/landing-saas/issues"
+  },
+  "homepage": "https://github.com/rk-codes/landing-saas#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
